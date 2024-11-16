@@ -1,5 +1,4 @@
 # My-freeCode-Camp-Project
-To fulfill the user stories and pass all the tests for your survey form project, here is the updated HTML structure with the required elements. This should help you complete the project and pass the tests.
 
 <!DOCTYPE html>
 <html lang="en">
